@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "yzzyk": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10_all.php/provide/vod",
-      "name": "优质资源库"
-    },
     "xinlang": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "name": "新浪资源"
